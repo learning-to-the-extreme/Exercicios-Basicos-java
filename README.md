@@ -1,4 +1,4 @@
-# Exercicios-Basicos-java
+# Exercicios Basicos java
 Sugestão de Exercícios básicos em Java
 
 
