@@ -10,3 +10,8 @@
 
 ## Sugestão de roadmap para aprender Java
 - [Java Developer](https://roadmap.sh/java)
+
+
+## Sugestão de roadmap para se qualificar como desenvolvedor backEnd
+
+- [Backend Developer](https://roadmap.sh/backend)
